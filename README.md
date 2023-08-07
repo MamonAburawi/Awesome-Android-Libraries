@@ -22,6 +22,10 @@ It is used for implementing a responsive layout in Android apps by providing a w
 
 link: https://github.com/intuit/sdp
 
+for jetpack compose use this
+
+link: https://github.com/Kaaveh/sdp-compose
+
 
 
 # 4- PRDownloader
